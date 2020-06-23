@@ -3,9 +3,9 @@
 #define SECRET
 #define THINGNAME "Mtest"
 
-const char WIFI_SSID[] = "SK_WiFiGIGAF380";
-const char WIFI_PASSWORD[] = "1701021605";
-const char AWS_IOT_ENDPOINT[] = "a11s8wqbg15mfp-ats.iot.us-east-2.amazonaws.com";
+const char WIFI_SSID[] = "---";
+const char WIFI_PASSWORD[] = "---";
+const char AWS_IOT_ENDPOINT[] = "----ats.iot.us-east-2.amazonaws.com";
 
 // Amazon Root CA 1
 static const char AWS_CERT_CA[] PROGMEM = R"EOF(
@@ -45,7 +45,7 @@ gPighEQdTAPECXc+73c0NOiK3gGhEdGH6td5VGwy6mky6RzLDQgIYYoxB/+M6d//
 vmFtKuzb8QfSuT3kzfAURX8ysV525PTAqhyTF95bZr/CiF72QxLrZxhEG7gBcQld
 5AbH+sikqwVtpnwPRzxG7+/gp3Gl2Ghm1ThUXxO6omJajL+xKxvq+atZQjjp+mJU
 wG3DAgMBAAGjYDBeMB8GA1UdIwQYMBaAFFcxxhv7ORjOdPsAjGaGGUrHo6YFMB0G
-A1UdDgQWBBSdEIepa4JzapyqptheB/NelHNBpDAMBgNVHRMBAf8EAjAAMA4GA1Ud
+A1UdDgQWBBSdEIepa4JzapyqptheB/--NelHNBpDAMBgNVHRMBAf8EAjAAMA4GA1Ud
 DwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEATnjsMEMgS1Zx4+GCRh47J6mz
 Yh+F86tsAStUKlipg8txZX7T4KLBr9Ndqi006Ld1VzNhovjvJgHxnhGP3c0QosZ2
 jYRJmtmw7w4ZLvWFUNpWquFyrdNCd5YCM5GkojfTD9oWtYuOS3oVoAZC+a6lN9hR
@@ -71,7 +71,7 @@ CA/OLOs09ravdLT/SuE9/kHyMtMFm2+9G9UZc8q+vdKc7iZW8wMkwfM9n/W2i/en
 MVn0iec5iIM39+mtjh8p7hXmb0qcwtFPovu2PNk3bV5+3r91dmUQT4YvKWV+W3TE
 Ru94iIkCgYEA5hWfj4ahTg41ymqj+Zp47yQC78Rlgl9by7a6zSaULaQX/lEDRgeY
 sMCfo8plGJZSdNgT9FKTtatQGuxyQwLxowiKC6lVvkf78q1Y/Fa40F32I25aSuP+
-9Y3tkNEG3PDgWrcmZGl14imroB4+HS/NdQGyekSJqF5p23jnsZLMZ7cCgYEA0A1C
+9Y3tkNEG3PDgWrcmZGl14imroB4+HS/--NdQGyekSJqF5p23jnsZLMZ7cCgYEA0A1C
 0/IsJCkjpNS+TfYY/g95QaD0dlOxCFeBO/N3oB8VZCcohg4J7zzHrLb9qcJNR0hS
 HBylp7Na7vyTjk/IelWpPkxfKEK+1zUjkABKWOC1+J2ZNtz43+emi6QhFes0iLbP
 FxSpiiCfxuv+3WRcyP3DmTQuCR2YAJT533Ph8lUCgYBfhjC1vPZxWrL4c+faNEjr
